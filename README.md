@@ -12,9 +12,6 @@ JavaScript (ES6+)
 HTML5
 CSS3
 
-# API Key
-To fetch weather data, you need to obtain an API key from OpenWeatherMap. Once you have the API key, replace the placeholder YOUR_API_KEY in the Tempwether.js file with your actual API key.
-
 # useState and useEffect
 The app uses the useState and useEffect hooks from React to manage state and perform side effects.
 
