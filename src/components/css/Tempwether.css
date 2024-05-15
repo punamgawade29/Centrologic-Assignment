@@ -1,0 +1,72 @@
+.boxfield {
+    background: linear-gradient(to bottom, #92a5b8 50%, #d4dce2 50%);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 60px;
+    margin: 50px auto;
+    max-width: 500px;
+    height:380px;
+}
+
+.inputData {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.inputFeild {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.errorMesage {
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.information {
+    text-align: center;
+}
+
+.locations {
+    color: black;
+    margin-bottom: 10px;
+}
+
+.tempreture {
+    font-size: 36px;
+    color: black;
+}
+
+.tempreture_max {
+    color: black;
+}
+
+.wave-container {
+    position: relative;
+}
+
+.wave {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), transparent);
+    animation: wave-animation 2s infinite linear;
+}
+
+@keyframes wave-animation {
+    0% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(0);
+    }
+
+
+   
+}
