@@ -18,3 +18,9 @@ The app uses the useState and useEffect hooks from React to manage state and per
 useState: It is used to manage the state of the city to be searched and the weather data received from the API response.
 
 useEffect: It is used to perform side effects, such as fetching weather data from the API when the search query changes.
+
+
+
+
+https://github.com/punamgawade29/Centrologic-Assignment/assets/141442107/23a4897f-65c2-4907-bada-8cc0cd5fe97a
+
